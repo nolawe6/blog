@@ -57,6 +57,6 @@ public class Authority implements Serializable {
     public String toString() {
         return "Authority{" +
             "name='" + name + '\'' +
-            "}";
+            "} ";
     }
 }
